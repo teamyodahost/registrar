@@ -1,2 +1,2 @@
-# registrar
-Register a subdomain in baby-yoda.xyz
+# YodaHost Subdomain Registar
+Currently not being worked on :(
